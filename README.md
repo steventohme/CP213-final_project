@@ -10,4 +10,5 @@ again. If the user enters an incorrect input as a quantity they are asked to ent
 Once the user enters 0 as a command they are given the reciept of their total order.
 
 RestaurantGUI is almost identical to RestaurantText in function hwoever the user is prompeted with
-a window that they can enter quantities for the menu items. The reciept is generated automatically.
+a window that they can enter quantities for the menu items. If the user enters an incorrect value
+the JTextbox value is returned to 0. The reciept is generated automatically on any input.
